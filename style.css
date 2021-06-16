@@ -15,7 +15,7 @@ header img{
 }
 
 .Informations h1{
-    margin-top: 80px;
+    margin-top: 30px;
     text-align: center;
     font-family: manrope;
     font-weight: 800;
@@ -24,7 +24,7 @@ header img{
 .Informations p{
     text-align: center;
     font-size: manrope;
-    margin-bottom: 30px;
+    margin-bottom: 0px;
 }
 
 .tickets h2, .tickets p{
